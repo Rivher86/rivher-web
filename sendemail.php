@@ -236,8 +236,8 @@ else{
                                 <p><strong>Sucursal Matriz:</strong><br>
                                   Eje 3 Oriente 68 Bis, Local C, Iztapalapa, San Antonio Culhuacan, 09800 CDMX.
                                 </p>
-                                <p><strong>Sucursal Chalco:</strong><br>
-                                  Av. Cuauhtemoc km 21.5 Col. San Miguel Jacalones, Chalco Estado de México.
+                                <p><strong>Sucursal Corporativo:</strong><br>
+                                  Eje 3 Oriente 70 Bis, Iztapalapa Col. San Antonio Culhuacan 09800 CDMX.
                                 </p>
                             </li>
 
@@ -246,12 +246,12 @@ else{
                                 <p><strong>Teléfonos:</strong> 1734 1551</p>
                                 <p><strong>WhatsApp:</strong> 55805 56345</p>
                                 <p><span>Email Matriz:</span><a href="#"> contacto@rivhertires.com.mx</a></p>
-                                <p><span>Email Chalco:</span><a href="#"> facturacionchal@rivhertires.com.mx</a></p>
+                                <p><span>Email Corporativo:</span><a href="#"> atencion@rivhertires.com.mx</a></p>
                             </li>
 
                             <li>
                                 <span class="icon flaticon-stopwatch"></span>
-                                <p><strong>Horario de Servicio:</strong><br>  L-V 9:00 a 18:30 H. Sab. 9:00 a 16:30 H.</p>
+                                <p><strong>Horario de Servicio:</strong><br>  L-V 9:00 a 18:30 H. Sab. 9:00 a 16:00 H.</p>
                             </li>
                         </ul>
                     </div>
