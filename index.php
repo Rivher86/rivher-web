@@ -94,7 +94,7 @@
                             <div class="icon-box"><span class="flaticon-clock"></span></div>
                             <ul>
                                 <li><strong>Horario de Servicio</strong></li>
-                                <li>L-V 9:00 a 18:30 H. Sab. 9:00 a 16:30 H.</li>
+                                <li>L-V 9:00 a 18:30 H. Sab. 9:00 a 16:00 H.</li>
                             </ul>
                         </div>
                     </div>
