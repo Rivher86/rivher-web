@@ -94,7 +94,7 @@
                             <div class="icon-box"><span class="flaticon-clock"></span></div>
                             <ul>
                                 <li><strong>Horario de Servicio</strong></li>
-                                <li>L-V 9:00 a 18:30 H. Sab. 9:00 a 16:30 H.</li>
+                                <li>L-V 9:00 a 18:30 H. Sab. 9:00 a 16:00 H.</li>
                             </ul>
                         </div>
                     </div>
@@ -739,13 +739,13 @@
                                 <!--<p><strong>Sucursal Matriz:</strong><br>-->
                                   Eje 3 Oriente 68 Bis, Local C, Iztapalapa, San Antonio Culhuacan, 09800 CDMX.
                                 </p>
-                                <p><strong>Teléfonos:</strong> 5581 7981 y 5582 4171</p>
-                                <p><strong>WhatsApp:</strong> (55) 4855 5184‬</p>
+                                <p><strong>Teléfonos:</strong> 555581 7981 y 555582 4171</p>
+                                <p><strong>WhatsApp:</strong> 55 4855 5184‬</p>
                                 <p><span>Email:</span><a href="#"> ventas@rivhertires.com.mx</a></p>
                             </li>
                             <li>
                                 <span class="icon flaticon-stopwatch"></span>
-                                <p><strong>Horario de Servicio:</strong><br>  Lunes a Viernes de 9:00 a 18:30 H. <br> Sábados de 9:00 a 16:30 H.</p>
+                                <p><strong>Horario de Servicio:</strong><br>  Lunes a Viernes de 9:00 a 18:30 H. <br> Sábados de 9:00 a 16:00 H.</p>
                             </li>
                             <li>
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.6049952119492!2d-99.11487548458264!3d19.342939486935354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fe034c8042d9%3A0xc9687d435b8a25cc!2sRivhertires!5e0!3m2!1ses-419!2sil!4v1602950672578!5m2!1ses-419!2sil" width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
@@ -754,22 +754,22 @@
                     </div>
 
                     <div class="info-column col-md-4 col-sm-12 col-xs-12">
-                        <h3 class="text-center" style="margin-left:50px;">Sucursal Chalco</h3>
+                        <h3 class="text-center" style="margin-left:50px;">Sucursal Corporativo</h3>
                         <ul>
                             <li>
                                 <span class="icon flaticon-placeholder"></span>
-                                  Av. Cuauhtemoc km 21.5 Col. San Miguel Jacalones, Chalco Estado de México.
+                                  Eje 3 Oriente 70 Bis, Iztapalapa, San Antonio Culhuacan, 09800 CDMX.
                                 </p>
-                                <p><strong>Teléfonos:</strong> 1734 1551</p>
-                                <p><strong>WhatsApp:</strong> 55805 56345</p>
-                                <p><span>Email:</span><a href="#"> facturacionchal@rivhertires.com.mx</a></p>
+                                <p><strong>Teléfonos:</strong> 56 3602 7806</p>
+                                <p><strong>WhatsApp:</strong> 56 3602 7806</p>
+                                <p><span>Email:</span><a href="#"> ventas7@rivhertires.com.mx</a></p>
                             </li>
                             <li>
                                 <span class="icon flaticon-stopwatch"></span>
-                                <p><strong>Horario de Servicio:</strong><br>  Lunes a Viernes de 9:00 a 18:30 H. <br> Sábados de 9:00 a 16:30 H.</p>
+                                <p><strong>Horario de Servicio:</strong><br>  Lunes a Viernes de 9:00 a 18:30 H. <br> Sábados de 9:00 a 16:00 H.</p>
                             </li>
                             <li>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3766.2996398022133!2d-98.89545748458356!3d19.26933148697741!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1f63e8ca607d%3A0xe12cd99a24dee03d!2sRIVHER%20TIRES%20CHALCO!5e0!3m2!1ses-419!2sil!4v1602950605489!5m2!1ses-419!2sil" width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                            <iframe src="https://www.https://www.google.com.mx/maps/place/19%C2%B020'36.3%22N+99%C2%B006'45.1%22W/@19.3433655,-99.1124738,19z/data=!4m4!3m3!8m2!3d19.343415!4d-99.112524?hl=es&entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D" width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                             </li>
                         </ul>
                     </div>
@@ -781,16 +781,37 @@
                                 <span class="icon flaticon-placeholder"></span>
                                   Prol. División del Norte 182 Col. San Bartolo el Chico, Xochimilco.
                                 </p>
-                                <p><strong>Teléfonos:</strong> 7095 9979</p>
-                                <p><strong>WhatsApp:</strong> 553247 8294</p>
-                                <p><span>Email:</span><a href="#"> ventas@rivhertires.com.mx</a></p>
+                                <p><strong>Teléfonos:</strong> 55 8041 7721</p>
+                                <p><strong>WhatsApp:</strong> 55 8041 7721</p>
+                                <p><span>Email:</span><a href="#"> ventas4@rivhertires.com.mx</a></p>
                             </li>
                             <li>
                                 <span class="icon flaticon-stopwatch"></span>
-                                <p><strong>Horario de Servicio:</strong><br>  Lunes a Viernes de 9:00 a 18:30 H. <br> Sábados de 9:00 a 16:30 H.</p>
+                                <p><strong>Horario de Servicio:</strong><br>  Lunes a Viernes de 9:00 a 18:30 H. <br> Sábados de 9:00 a 16:00 H.</p>
                             </li>
                             <li>
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3765.980685243768!2d-99.12555838187023!3d19.28320613409996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce010d04e94629%3A0xef5a2c57f330fec!2sProl.%20Divisi%C3%B3n%20del%20Nte.%20182%2C%20San%20Bartolo%20el%20Chico%2C%20Xochimilco%2C%2016010%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX%2C%20M%C3%A9xico!5e0!3m2!1ses-419!2sil!4v1602949415212!5m2!1ses-419!2sil" width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>   
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="info-column col-md-4 col-sm-12 col-xs-12">
+                    <h3 class="text-center" style="margin-left:50px;">Sucursal Culhuacan</h3>
+                        <ul>
+                            <li>
+                                <span class="icon flaticon-placeholder"></span>
+                                  Av. 2 145, Ex-Ejido de San Francisco Culhuacan, Coyoacán, 04400 CDMX.
+                                </p>
+                                <p><strong>Teléfonos:</strong> 56 4158 9674</p>
+                                <p><strong>WhatsApp:</strong> 56 4158 9674</p>
+                                <p><span>Email:</span><a href="#"> ventas2@rivhertires.com.mx</a></p>
+                            </li>
+                            <li>
+                                <span class="icon flaticon-stopwatch"></span>
+                                <p><strong>Horario de Servicio:</strong><br>  Lunes a Viernes de 9:00 a 18:30 H. <br> Sábados de 9:00 a 16:00 H.</p>
+                            </li>
+                            <li>
+                            <iframe src="https://www.google.com.mx/maps/place/RIVHER+TIRES+CULHUACAN/@19.3346286,-99.128889,21z/data=!4m6!3m5!1s0x85ce0167353cb8ab:0x70f89f41ca408809!8m2!3d19.3346286!4d-99.128728!16s%2Fg%2F11thk81j13?hl=es&entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D" width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>   
                             </li>
                         </ul>
                     </div>
