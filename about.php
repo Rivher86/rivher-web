@@ -47,7 +47,7 @@
                         </ul>
                     </div>
                     <div class="top-right clearfix">
-                        <p><i class="fa fa-phone-volume"></i> Llámanos ahora: 55817981 y 55824171</p>
+                        <p><i class="fa fa-phone-volume"></i> Llámanos ahora: 5555817981 y 5555824171</p>
                     </div>
                 </div>
             </div>
