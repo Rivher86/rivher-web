@@ -811,7 +811,7 @@
                                 <p><strong>Horario de Servicio:</strong><br>  Lunes a Viernes de 9:00 a 18:30 H. <br> Sábados de 9:00 a 16:00 H.</p>
                             </li>
                             <li>
-                            <iframe src="https://www.google.com/maps/place/RIVHER+TIRES+CULHUACAN/@19.3346286,-99.128889,21z/data=!4m6!3m5!1s0x85ce0167353cb8ab:0x70f89f41ca408809!8m2!3d19.3346286!4d-99.128728!16s%2Fg%2F11thk81j13?hl=es&entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D" width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>   
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.7965280316057!2d-99.13130292574142!3d19.334633643804068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0167353cb8ab%3A0x70f89f41ca408809!2sRIVHER%20TIRES%20CULHUACAN!5e0!3m2!1ses!2smx!4v1750653344766!5m2!1ses!2smx" width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>   
                             </li>
                         </ul>
                     </div>
