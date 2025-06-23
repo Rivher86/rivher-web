@@ -47,7 +47,7 @@
                           </ul>
                       </div>
                       <div class="top-right clearfix">
-                          <p><i class="fa fa-phone-volume"></i> Llámanos ahora: 55817981 y 55824171</p>
+                          <p><i class="fa fa-phone-volume"></i> Llámanos ahora: 5555817981 y 5555824171</p>
                       </div>
                   </div>
               </div>
@@ -233,22 +233,22 @@
                                 <p><strong>Sucursal Matriz:</strong><br>
                                   Eje 3 Oriente 68 Bis, Local C, Iztapalapa, San Antonio Culhuacan, 09800 CDMX.
                                 </p>
-                                <p><strong>Sucursal Chalco:</strong><br>
-                                  Av. Cuauhtemoc km 21.5 Col. San Miguel Jacalones, Chalco Estado de México.
+                                <p><strong>Sucursal Corporativo:</strong><br>
+                                  Eje 3 Oriente 70 Bis, Iztapalapa, San Antonio Culhuacan, 09800 CDMX.
                                 </p>
                             </li>
 
                             <li>
                                 <span class="icon flaticon-phone"></span>
-                                <p><strong>Teléfonos:</strong> 1734 1551</p>
-                                <p><strong>WhatsApp:</strong> 55805 56345</p>
+                                <p><strong>Teléfonos:</strong> 55 1734 1551</p>
+                                <p><strong>WhatsApp:</strong> 55 8055 6345</p>
                                 <p><span>Email Matriz:</span><a href="#"> contacto@rivhertires.com.mx</a></p>
-                                <p><span>Email Chalco:</span><a href="#"> facturacionchal@rivhertires.com.mx</a></p>
+                                <p><span>Email Chalco:</span><a href="#"> ventas7@rivhertires.com.mx</a></p>
                             </li>
 
                             <li>
                                 <span class="icon flaticon-stopwatch"></span>
-                                <p><strong>Horario de Servicio:</strong><br>  L-V 9:00 a 18:30 H. Sab. 9:00 a 16:30 H.</p>
+                                <p><strong>Horario de Servicio:</strong><br>  L-V 9:00 a 18:30 H. Sab. 9:00 a 16:00 H.</p>
                             </li>
                         </ul>
                     </div>
