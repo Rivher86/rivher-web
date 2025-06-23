@@ -687,7 +687,7 @@
                     <div class="inner-box">
                         <span class="icon flaticon-stopwatch"></span>
                         <p>Horario de Servicio</p>
-                        <p>L-V 9:00 a 18:30 H. Sab. 9:00 a 16:30 H.</p>
+                        <p>L-V 9:00 a 18:30 H. Sab. 9:00 a 16:00 H.</p>
                     </div>
                 </div>
             </div>
