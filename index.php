@@ -769,7 +769,7 @@
                                 <p><strong>Horario de Servicio:</strong><br>  Lunes a Viernes de 9:00 a 18:30 H. <br> Sábados de 9:00 a 16:00 H.</p>
                             </li>
                             <li>
-                            <iframe src="https://www.https://www.google.com.mx/maps/place/19%C2%B020'36.3%22N+99%C2%B006'45.1%22W/@19.3433655,-99.1124738,19z/data=!4m4!3m3!8m2!3d19.343415!4d-99.112524?hl=es&entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D" width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                            <iframe src="https://www.google.com/maps/place/19%C2%B020'36.3%22N+99%C2%B006'45.1%22W/@19.3433655,-99.1124738,19z/data=!4m4!3m3!8m2!3d19.343415!4d-99.112524?hl=es&entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D" width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                             </li>
                         </ul>
                     </div>
@@ -811,7 +811,7 @@
                                 <p><strong>Horario de Servicio:</strong><br>  Lunes a Viernes de 9:00 a 18:30 H. <br> Sábados de 9:00 a 16:00 H.</p>
                             </li>
                             <li>
-                            <iframe src="https://www.google.com.mx/maps/place/RIVHER+TIRES+CULHUACAN/@19.3346286,-99.128889,21z/data=!4m6!3m5!1s0x85ce0167353cb8ab:0x70f89f41ca408809!8m2!3d19.3346286!4d-99.128728!16s%2Fg%2F11thk81j13?hl=es&entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D" width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>   
+                            <iframe src="https://www.google.com/maps/place/RIVHER+TIRES+CULHUACAN/@19.3346286,-99.128889,21z/data=!4m6!3m5!1s0x85ce0167353cb8ab:0x70f89f41ca408809!8m2!3d19.3346286!4d-99.128728!16s%2Fg%2F11thk81j13?hl=es&entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D" width="300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>   
                             </li>
                         </ul>
                     </div>
