@@ -83,7 +83,7 @@ else{
                           </ul>
                       </div>
                       <div class="top-right clearfix">
-                          <p><i class="fa fa-phone-volume"></i> Llámanos ahora: 55817981 y 55824171</p>
+                          <p><i class="fa fa-phone-volume"></i> Llámanos ahora: 5555817981 y 5555824171</p>
                       </div>
                   </div>
               </div>
@@ -236,22 +236,22 @@ else{
                                 <p><strong>Sucursal Matriz:</strong><br>
                                   Eje 3 Oriente 68 Bis, Local C, Iztapalapa, San Antonio Culhuacan, 09800 CDMX.
                                 </p>
-                                <p><strong>Sucursal Chalco:</strong><br>
-                                  Av. Cuauhtemoc km 21.5 Col. San Miguel Jacalones, Chalco Estado de México.
+                                <p><strong>Sucursal Corporativo:</strong><br>
+                                  Eje 3 Oriente 70 Bis, Iztapalapa, San Antonio Culhuacan, 09800 CDMX.
                                 </p>
                             </li>
 
                             <li>
                                 <span class="icon flaticon-phone"></span>
-                                <p><strong>Teléfonos:</strong> 1734 1551</p>
-                                <p><strong>WhatsApp:</strong> 55805 56345</p>
+                                <p><strong>Teléfonos:</strong> 551734 1551</p>
+                                <p><strong>WhatsApp:</strong> 5555805 56345</p>
                                 <p><span>Email Matriz:</span><a href="#"> contacto@rivhertires.com.mx</a></p>
-                                <p><span>Email Chalco:</span><a href="#"> facturacionchal@rivhertires.com.mx</a></p>
+                                <p><span>Email Corporativo:</span><a href="#"> ventas7@rivhertires.com.mx</a></p>
                             </li>
 
                             <li>
                                 <span class="icon flaticon-stopwatch"></span>
-                                <p><strong>Horario de Servicio:</strong><br>  L-V 9:00 a 18:30 H. Sab. 9:00 a 16:30 H.</p>
+                                <p><strong>Horario de Servicio:</strong><br>  L-V 9:00 a 18:30 H. Sab. 9:00 a 16:00 H.</p>
                             </li>
                         </ul>
                     </div>
@@ -264,7 +264,7 @@ else{
     <!--
     <section class="contact-map-section" style="padding:0px;">
       <div class="map-outer">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.6091583845705!2d-99.11494638471012!3d19.342758986935515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fe034c8042d9%3A0xc9687d435b8a25cc!2sRivhertires!5e0!3m2!1ses-419!2smx!4v1532537329859" width="" height="450" frameborder="0" style="border:0;width:100%;" allowfullscreen></iframe>
+        <iframe src="https://www.https://www.google.com.mx/maps/place/19%C2%B020'36.3%22N+99%C2%B006'45.1%22W/@19.3433655,-99.1124738,19z/data=!4m4!3m3!8m2!3d19.343415!4d-99.112524?hl=es&entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D" width="" height="450" frameborder="0" style="border:0;width:100%;" allowfullscreen></iframe>
       </div>
     </div>
   -->
