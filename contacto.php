@@ -243,7 +243,7 @@
                                 <p><strong>Teléfonos:</strong> 22 1599 4425</p>
                                 <p><strong>WhatsApp:</strong> 55 1989 6381</p>
                                 <p><span>Email Matriz:</span><a href="#"> contacto@rivhertires.com.mx</a></p>
-                                <p><span>Email Chalco:</span><a href="#"> ventas7@rivhertires.com.mx</a></p>
+                                <p><span>Email Corporativo:</span><a href="#"> atencion@rivhertires.com.mx</a></p>
                             </li>
 
                             <li>
