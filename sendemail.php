@@ -246,7 +246,7 @@ else{
                                 <p><strong>Teléfonos:</strong> 551734 1551</p>
                                 <p><strong>WhatsApp:</strong> 5555805 56345</p>
                                 <p><span>Email Matriz:</span><a href="#"> contacto@rivhertires.com.mx</a></p>
-                                <p><span>Email Corporativo:</span><a href="#"> ventas7@rivhertires.com.mx</a></p>
+                                <p><span>Email Corporativo:</span><a href="#"> atencion@rivhertires.com.mx</a></p>
                             </li>
 
                             <li>
